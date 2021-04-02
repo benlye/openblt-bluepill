@@ -11,6 +11,9 @@
 *.gch
 *.pch
 
+# Stack Usage Files
+*.su
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
@@ -30,3 +33,7 @@
 *.exe
 *.out
 *.app
+
+# Directories
+bin/
+obj/
